@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "game.alex.spaceintercept",
+    "restype": "quick_app",
+    "name": "Перехват",
+    "description": "Управляй кораблём пальцем и отрази пять волн. Стрельба автоматическая. Последний бой — с флагманом.\n\nDrag to steer your ship and repel five waves with automatic fire. A flagship awaits at the end.",
+    "preview": [
+      "preview-1.png",
+      "preview-2.png"
+    ],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "alexdevep",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.1.3",
+      "versionCode": 4,
+      "file_name": "Space-Intercept-0.1.3.rpk"
+    }
+  },
+  "ext": {}
+}
